@@ -31,3 +31,15 @@ Update-Database
 ### Some interfaces
 
 ![create](https://user-images.githubusercontent.com/16801135/90374536-ee2cdd80-e073-11ea-98e5-4199249c3c70.png)
+
+
+![delete](https://user-images.githubusercontent.com/16801135/90374652-1e747c00-e074-11ea-9419-9a0be834bb8d.png)
+
+
+![details](https://user-images.githubusercontent.com/16801135/90374686-2af8d480-e074-11ea-9724-a4b0f78137c7.png)
+
+
+![edit](https://user-images.githubusercontent.com/16801135/90374717-3815c380-e074-11ea-9e96-4bc4f920c03d.png)
+
+
+![List](https://user-images.githubusercontent.com/16801135/90374732-3ba94a80-e074-11ea-82de-5c772a0f71de.png)
