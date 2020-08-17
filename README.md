@@ -1,6 +1,8 @@
 ### Create MVC Crud with .net core 3.1
 
-##### 1. use the command dotnet new mvc projectname or direct with Visual Studio to create the project
+##### 1. use the command dotnet new mvc projectname or 
+
+direct with Visual Studio to create the project
 
 ##### 2. Add the different models required. in our case only one model Movie.cs
 
